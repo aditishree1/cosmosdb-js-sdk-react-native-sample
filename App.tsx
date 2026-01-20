@@ -1,4 +1,3 @@
-import './shim';
 import React, { useState, useEffect, useCallback } from 'react';
 import {
   SafeAreaView,
